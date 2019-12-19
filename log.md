@@ -11,6 +11,7 @@ Problems I did 1.LUCKFOUR, 2.DIFFSUM, 3.DECINC, 4.CHFPARTY, 5.NUM239, 6.FSQRT
 **Thoughts:** The easy problems are taking a lot time to solve currently. Hope to reduce this time as soon as possible.
 
 **Link to work:** 
+
 1.LUCKFOUR https://www.codechef.com/viewsolution/28412099
 
 2.DIFFSUM https://www.codechef.com/viewsolution/28411924
