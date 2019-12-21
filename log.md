@@ -58,6 +58,22 @@ Cheers
 
 **Today's Progress**: 
  
-Did 6 #cplusplus beginner questions from #codechef(mostly very basic ones). But I can see a little change in my coding style and I am learning things(INT_MAX,min(),etc).
+Did 6 #cplusplus beginner questions from #codechef(mostly very basic ones). But I can see a little change in my coding style and I am learning things(INT_MAX,min(),etc).Questions I solved today are 1.CHOPRT, 2.FLOW008, 3.FLOW005, 4.TWOVSTEN, 5.AMR15A, 6.MDL
+
 Tommorow is the CookOff.
-Difficult questions coming tomorrow
+Difficult questions coming tomorrow.
+
+**Link to work**
+
+1.CHOPRT https://www.codechef.com/viewsolution/28433793
+
+2.FLOW008 https://www.codechef.com/viewsolution/28433721
+
+3.FLOW005 https://www.codechef.com/viewsolution/28433701
+
+4.TWOVSTEN https://www.codechef.com/viewsolution/28433339
+
+5.AMR15A https://www.codechef.com/viewsolution/28433281
+
+6.MDL https://www.codechef.com/viewsolution/28430640
+
