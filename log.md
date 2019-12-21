@@ -60,7 +60,8 @@ Cheers
  
 Did 6 #cplusplus beginner questions from #codechef(mostly very basic ones). But I can see a little change in my coding style and I am learning things(INT_MAX,min(),etc).Questions I solved today are 1.CHOPRT, 2.FLOW008, 3.FLOW005, 4.TWOVSTEN, 5.AMR15A, 6.MDL
 
-Tommorow is the CookOff.
+Tommorow is the Decmber CookOff and I want to be able to solve atleast 1 question.
+
 Difficult questions coming tomorrow.
 
 **Link to work**
