@@ -50,3 +50,14 @@ Cheers
 5.SNCKYEAR https://www.codechef.com/viewsolution/28416041
 
 6.SAFEROBO https://www.codechef.com/viewsolution/28415958
+
+
+### Day 3: December 21, 2019
+
+
+
+**Today's Progress**: 
+ 
+Did 6 #cplusplus beginner questions from #codechef(mostly very basic ones). But I can see a little change in my coding style and I am learning things(INT_MAX,min(),etc).
+Tommorow is the CookOff.
+Difficult questions coming tomorrow
