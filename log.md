@@ -85,7 +85,13 @@ Difficult questions coming tomorrow.
 
 **Today's Progress**: 
 
-Finally participated in the **December CookOff** and was able to solve 2 questions but one was exceeding the time limit(solution was correct though). And I am happy thet I was able to solve them. There was another which I understood & was trying to solve but couldn't do so. I also saw vedios of STL by Saurabh Shukla on youtube(I should have seen more). Solved 2 questions, one from codechef and another from spoj. Not a bad day but not very productive one either. Practice questions are 1.HRDSEQ(CODECHEF), 2.PRIME GENERATOR(SPOJ) and 2 from CookOff 3.CHNGIT, 4.XORIT
+Finally participated in the **December CookOff** and was able to solve 2 questions but one was exceeding the time limit(solution was correct though). And I am happy that I was able to solve them. There was another which I understood & was trying to solve but couldn't do so. 
+
+I also saw vedios of STL by Saurabh Shukla on youtube(I should have seen more). Solved 2 questions, one from codechef and another from spoj. 
+
+Not a bad day but not very productive one either. 
+
+Practice questions are 1.HRDSEQ(CODECHEF), 2.PRIME GENERATOR(SPOJ) and 2 from CookOff 3.CHNGIT, 4.XORIT
 
 **Link to work**
 
