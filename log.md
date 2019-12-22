@@ -78,3 +78,21 @@ Difficult questions coming tomorrow.
 
 6.MDL https://www.codechef.com/viewsolution/28430640
 
+
+### Day 4: December 22, 2019
+
+
+
+**Today's Progress**: 
+
+Finally participated in the December CookOff and was able to solve 2 questions but one was exceeding the time limit(solution was correct though). And I am happy thet I was able to solve them. There was another which I understood & was trying to solve but couldn't do so. I also saw vedios of STL by Saurabh Shukla on youtube(I should have seen more). Solved 2 questions, one from codechef and another from spoj. Not a bad day but not very productive one either. Practice questions are 1.HRDSEQ(CODECHEF), 2.PRIME GENERATOR(SPOJ) and 2 from CookOff 3.CHNGIT, 4.XORIT
+
+**Link to work**
+
+1.HRDSEQ https://www.codechef.com/viewsolution/28436182
+
+2.PRIME GENERATOR 
+
+3.CHNGIT https://www.codechef.com/viewsolution/28444654
+
+4.XORIT https://www.codechef.com/viewsolution/28449353  (It was not accepted as it exceeded the time limit)
