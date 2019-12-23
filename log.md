@@ -102,3 +102,34 @@ Practice questions are 1.HRDSEQ(CODECHEF), 2.PRIME GENERATOR(SPOJ) and 2 from Co
 3.CHNGIT https://www.codechef.com/viewsolution/28444654
 
 4.XORIT https://www.codechef.com/viewsolution/28449353  (It was not accepted as it exceeded the time limit)
+
+
+### Day 5: December 23, 2019
+
+
+
+**Today's Progress**:
+
+Did 7 questions today but mostly basic ones.Some were very easy like reversing digits(need to focus on little tougher problems). Learnt about **<boost/multiprecision>** in #cplusplus. 
+
+**<boost/multiprecision>** helps to do deal with large numbers(life saver). Because of it was finally able to solve a factorial problem which dealt with large numbers. 
+
+Learning new things everyday. Would try some difficult problems tomorrow. 
+
+Problems I did today are 1.FCTRL2, 2.FLOW017, 3.FLOW018, 4.FLOW007, 5.FLOW004, 6.FLOW001, 7.ADDING REVERSED NUMBERS
+
+**Link to work**
+
+1.FCTRL2 https://www.codechef.com/viewsolution/28466168
+
+2.FLOW017 https://www.codechef.com/viewsolution/28465958
+
+3.FLOW018 https://www.codechef.com/viewsolution/28465759
+
+4.FLOW007 https://www.codechef.com/viewsolution/28465724
+
+5.FLOW004 https://www.codechef.com/viewsolution/28465668
+
+6.FLOW001 https://www.codechef.com/viewsolution/28465534
+
+7.ADDING REVERSED NUMBERS (SPOJ)
