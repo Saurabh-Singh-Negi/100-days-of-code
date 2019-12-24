@@ -133,3 +133,32 @@ Problems I did today are 1.FCTRL2, 2.FLOW017, 3.FLOW018, 4.FLOW007, 5.FLOW004, 6
 6.FLOW001 https://www.codechef.com/viewsolution/28465534
 
 7.ADDING REVERSED NUMBERS (SPOJ)
+
+
+### Day 5: December 23, 2019
+
+
+
+**Today's Progress**:
+
+So I did 6 questions in #cplusplus from @codechef and @spoj.
+
+Learnt to count trailing 0's in a very large number.
+
+Practice, Practice, Practice is the key.
+
+The questions that I did today are 1.SMPAIR, 2.PRB01, 3.PALL01, 4.FLOW013, 5.AREAPERI, 6.FACTORIAL
+
+**Link to work**
+
+1.SMPAIR https://www.codechef.com/viewsolution/28476632
+
+2.PRB01 https://www.codechef.com/viewsolution/28476560
+
+3.PALL01 https://www.codechef.com/viewsolution/28476406
+
+4.FLOW013 https://www.codechef.com/viewsolution/28476369
+
+5.AREAPERI https://www.codechef.com/viewsolution/28477008
+
+6.FACTORIAL(SPOJ, finding trailing 0's in large factorial values)
