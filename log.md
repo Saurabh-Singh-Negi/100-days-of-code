@@ -135,7 +135,7 @@ Problems I did today are 1.FCTRL2, 2.FLOW017, 3.FLOW018, 4.FLOW007, 5.FLOW004, 6
 7.ADDING REVERSED NUMBERS (SPOJ)
 
 
-### Day 5: December 23, 2019
+### Day 6: December 24, 2019
 
 
 
@@ -162,3 +162,24 @@ The questions that I did today are 1.SMPAIR, 2.PRB01, 3.PALL01, 4.FLOW013, 5.ARE
 5.AREAPERI https://www.codechef.com/viewsolution/28477008
 
 6.FACTORIAL(SPOJ, finding trailing 0's in large factorial values)
+
+
+### Day 7: December 25, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer #technology
+
+Had a lot of work today. But managed to do 3 questions from codechef.
+
+The questions that I did today are 1.FLOW014, 2.CANDY123, 3.ATM2
+
+**Link to work**
+
+1.FLOW014 https://www.codechef.com/viewsolution/28490399
+
+2.CANDY123 https://www.codechef.com/viewsolution/28490198
+
+3.ATM2 https://www.codechef.com/viewsolution/28490023
