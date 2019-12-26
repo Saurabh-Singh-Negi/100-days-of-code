@@ -183,3 +183,31 @@ The questions that I did today are 1.FLOW014, 2.CANDY123, 3.ATM2
 2.CANDY123 https://www.codechef.com/viewsolution/28490198
 
 3.ATM2 https://www.codechef.com/viewsolution/28490023
+
+
+### Day 8: December 26, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer #technology
+
+Did 6 questions from spoj. The level of questions that I did today was higher than the ones I was doing earlier. 
+
+Improving logic, increasing speed. 
+
+Procastination is a big trouble. :P
+
+Need to work on procastination habits, time management and the list goes on.
+
+The #hustle is on.
+
+The questions that I did today 1.NUMBER STEPS, 2.FEYNMAN, 3.SMALL FACTORIALS, 4.WHAT'S NEXT, 5.CANDY 1, 6.FASHION SHOWS 
+
+I repeated the factorial question today as it had a new concept that i learnt few days back which helps to handle the large numbers. So it was a brush up.
+
+**Link to work**  
+
+(No links. All the problems were from  spoj)
+
