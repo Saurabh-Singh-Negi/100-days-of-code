@@ -230,7 +230,7 @@ And I am happy because I learnt new concepts in some of the questions.
 
 The questions that I did are 1.POTATOES, 2.LONGSEQ, 3.RECTANGL, 4.RECTSQ, 5.MUFFINS3, 6.ONP
 
-**And yes, today I've completed 50 questions since I started this challenge. A century coming soon **
+**And yes, today I've completed 50 questions since I started this challenge. A century coming soon**
 
 
 **Link to work**
