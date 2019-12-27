@@ -211,3 +211,37 @@ I repeated the factorial question today as it had a new concept that i learnt fe
 
 (No links. All the problems were from  spoj)
 
+
+
+
+### Day 9: December 27, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer 
+
+Did 6 questions from codechef. And also learnt few concepts of stack in #cplusplus as well as stl implementation of stack.
+
+practice,practice,practice(as i said earlier) is the key. 
+
+And I am happy because I learnt new concepts in some of the questions.
+
+The questions that I did are 1.POTATOES, 2.LONGSEQ, 3.RECTANGL, 4.RECTSQ, 5.MUFFINS3, 6.ONP
+
+
+**Link to work**
+
+1.POTATOES https://www.codechef.com/status/POTATOES,saurabh_negi
+
+2.LONGSEQ https://www.codechef.com/viewsolution/28518997
+
+3.RECTANGL https://www.codechef.com/viewsolution/28518800
+
+4.RECTSQ https://www.codechef.com/viewsolution/28518769
+
+5.MUFFINS3 https://www.codechef.com/viewsolution/28513737
+
+6.ONP https://www.codechef.com/viewsolution/28513588
+
