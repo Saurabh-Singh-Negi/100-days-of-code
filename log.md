@@ -247,3 +247,35 @@ The questions that I did are 1.POTATOES, 2.LONGSEQ, 3.RECTANGL, 4.RECTSQ, 5.MUFF
 
 6.ONP https://www.codechef.com/viewsolution/28513588
 
+
+
+### Day 10: December 28, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer 
+
+Solved 5 questions from  @codechef. The questions were not very easy(for me). 
+
+I've improved my speed (a little bit only).
+
+participated in  December lunchtime but couldn't solve any question even though 1st question was giving correct o/p still wasn't accepted. I'll try to refer the editorial.
+
+I solved 5 questions today 1.FLOW009, 2.LAPIN, 3.FLOW010, 4.RECIPE, 5.REMISS
+
+
+**Link to work**
+
+1.FLOW009 https://www.codechef.com/viewsolution/28525112
+
+2.LAPIN https://www.codechef.com/viewsolution/28525112
+
+3.FLOW010 https://www.codechef.com/viewsolution/28524005
+
+4.RECIPE https://www.codechef.com/viewsolution/28523741
+
+5.REMISS https://www.codechef.com/viewsolution/28522432
+
+
