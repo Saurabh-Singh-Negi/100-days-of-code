@@ -279,3 +279,33 @@ I solved 5 questions today 1.FLOW009, 2.LAPIN, 3.FLOW010, 4.RECIPE, 5.REMISS
 5.REMISS https://www.codechef.com/viewsolution/28522432
 
 
+
+### Day 11: December 29, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer 
+
+Did another 4 questions on @codechef. I tried solving more questions but was unable to get the solutions accepted.
+
+Planning to study some concepts like ds, dynamic programming, etc. 
+
+PRACTICE, PRACTICE, PRACTICE
+
+The problems that i solved are 1.CCOOK, 2.HOWMANY, 3.VOWELTB, 4.WATSCORE
+
+
+**Link to work**
+
+1.CCOOK https://www.codechef.com/viewsolution/28557604
+
+2.HOWMANY https://www.codechef.com/viewsolution/28557452
+
+3.VOWELTB https://www.codechef.com/viewsolution/28557395
+
+4.WATSCORE https://www.codechef.com/status/WATSCORE,saurabh_negi
+
+
+
