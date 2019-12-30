@@ -309,3 +309,42 @@ The problems that i solved are 1.CCOOK, 2.HOWMANY, 3.VOWELTB, 4.WATSCORE
 
 
 
+
+### Day 12: December 30, 2019
+
+
+
+**Today's Progress**:
+
+#100DaysOfCode #cplusplus #programmer 
+
+#100DaysOfCode  #cplusplus
+
+Did 5 questions today from @codechef & @spoj. Got some doubts cleared from the discussion section of codechef.
+
+The last time I gave up my challenge on day 12.
+
+And here I am to do things the better way.
+~cheers~
+
+The questions that I did today 1.PD33, 2.FLOW016, 3.GDOG, 4.FLOW011, 5.HEADBOB
+
+
+###Future Me to Present Me: You are doing a great job by following this schedule. I know there are a lot of consufions right now. But if you try to focus on evrything at a time, it would lead to chaos. Focus on one fundamental thing (which youu believe would be the base for things you will learn or are learning) and other things will fall into place. You will be so happy that you did this cpp challenge###
+
+
+**Link to work**
+
+1.PD33 https://www.codechef.com/viewsolution/28576931
+
+2.FLOW016 https://www.codechef.com/viewsolution/28572148
+
+3.GDOG https://www.codechef.com/viewsolution/28568249
+
+4.FLOW011 https://www.codechef.com/viewsolution/28567722
+
+5.HEADBOB https://www.codechef.com/viewsolution/28567201
+
+
+
+
