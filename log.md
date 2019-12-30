@@ -325,12 +325,13 @@ Did 5 questions today from @codechef & @spoj. Got some doubts cleared from the d
 The last time I gave up my challenge on day 12.
 
 And here I am to do things the better way.
-~cheers~
+
+cheers 
 
 The questions that I did today 1.PD33, 2.FLOW016, 3.GDOG, 4.FLOW011, 5.HEADBOB
 
 
-###Future Me to Present Me: You are doing a great job by following this schedule. I know there are a lot of consufions right now. But if you try to focus on evrything at a time, it would lead to chaos. Focus on one fundamental thing (which youu believe would be the base for things you will learn or are learning) and other things will fall into place. You will be so happy that you did this cpp challenge###
+### Future Me to Present Me: You are doing a great job by following this schedule. I know there are a lot of consufions right now. But if you try to focus on evrything at a time, it would lead to chaos. Focus on one fundamental thing (which youu believe would be the base for things you will learn or are learning) and other things will fall into place. You will be so happy that you did this cpp challenge ###
 
 
 **Link to work**
