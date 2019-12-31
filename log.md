@@ -349,3 +349,29 @@ The questions that I did today 1.PD33, 2.FLOW016, 3.GDOG, 4.FLOW011, 5.HEADBOB
 
 
 
+### Day 13: December 31, 2019
+
+
+
+**Today's Progress**:
+
+
+So today I crossed my 12th day(Last time i gave up on the 12th day). A big achievement indeed. Did 4 problems from @CodeChef & @spoj
+ 
+Happy that I've come this far. A very long journey awaits me.
+
+Last update from 2k19. A year filled with a lot of lessons. And in all these 21 years, it might even be one of the most important years of my life. 
+
+The questions that I did are 1.TALAZY, 2.MOVIEWKN, 3.CFRTEST, 4.DEM8
+
+
+**Link to work**
+
+1.TALAZY https://www.codechef.com/viewsolution/28592947
+
+2.MOVIEWKN https://www.codechef.com/viewsolution/28590569
+
+3.CFRTEST https://www.codechef.com/viewsolution/28590151
+
+4.DEM8 https://www.codechef.com/viewsolution/28585250
+
