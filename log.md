@@ -377,7 +377,7 @@ The questions that I did are 1.TALAZY, 2.MOVIEWKN, 3.CFRTEST, 4.DEM8
 
 
 
-### Day 14: , 2019
+### Day 14: 1 jANUARY, 2019
 
 
 
