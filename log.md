@@ -375,3 +375,29 @@ The questions that I did are 1.TALAZY, 2.MOVIEWKN, 3.CFRTEST, 4.DEM8
 
 4.DEM8 https://www.codechef.com/viewsolution/28585250
 
+
+
+### Day 14: , 2019
+
+
+
+**Today's Progress**:
+A very happy new year. 
+
+Did 4 questions from  @CodeChef. I find @spoj a bit difficult. My solutions aren't easily accepted on @spoj.
+
+Working on improving
+
+The questions that I did are 1.LECANDY, 2.NUMGAME, 3.DOUBLE, 4.HOLES
+
+
+**Link to work**
+
+1.LECANDY https://www.codechef.com/viewsolution/28600005
+
+2.NUMGAME https://www.codechef.com/viewsolution/28599750
+
+3.DOUBLE https://www.codechef.com/viewsolution/28599353
+
+4.HOLES https://www.codechef.com/viewsolution/28599270
+
