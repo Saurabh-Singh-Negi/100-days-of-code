@@ -377,7 +377,7 @@ The questions that I did are 1.TALAZY, 2.MOVIEWKN, 3.CFRTEST, 4.DEM8
 
 
 
-### Day 14: 1 jANUARY, 2019
+### Day 14: 1 jANUARY, 2020
 
 
 
@@ -401,3 +401,29 @@ The questions that I did are 1.LECANDY, 2.NUMGAME, 3.DOUBLE, 4.HOLES
 
 4.HOLES https://www.codechef.com/viewsolution/28599270
 
+
+
+
+### Day 15: 2 jANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Things are getting interesting. As i have been solving questions since few days, now i've started practicing algos.
+
+Practiced algos as well as did 4 questions from @HackerEarth based on the algorithm. The algorithms were Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort
+
+
+The questions that I did are 1.INSERTION SORT, 2.BUBBLE SORT, 3.RANK IT, 4.SELECTION SORT
+
+
+**Link to work**
+
+1.INSERTION SORT https://www.hackerearth.com/submission/34761397/
+
+2.SELECTION SORT https://www.hackerearth.com/submission/34757551/
+
+3.RANK IT https://www.hackerearth.com/submission/34755575/
+
+4.BUBBLE SORT https://www.hackerearth.com/submission/34756097/
