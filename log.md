@@ -427,3 +427,16 @@ The questions that I did are 1.INSERTION SORT, 2.BUBBLE SORT, 3.RANK IT, 4.SELEC
 3.RANK IT https://www.hackerearth.com/submission/34755575/
 
 4.BUBBLE SORT https://www.hackerearth.com/submission/34756097/
+
+
+
+### Day 16: 3 jANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Was doing merge sort and a question that i had encountered in one of the placement exam. Wasn't a very productive day.
+#programming @HackerEarth.
+
+
