@@ -377,7 +377,7 @@ The questions that I did are 1.TALAZY, 2.MOVIEWKN, 3.CFRTEST, 4.DEM8
 
 
 
-### Day 14: 1 jANUARY, 2020
+### Day 14: 1 JANUARY, 2020
 
 
 
@@ -404,7 +404,7 @@ The questions that I did are 1.LECANDY, 2.NUMGAME, 3.DOUBLE, 4.HOLES
 
 
 
-### Day 15: 2 jANUARY, 2020
+### Day 15: 2 JANUARY, 2020
 
 
 
@@ -430,7 +430,7 @@ The questions that I did are 1.INSERTION SORT, 2.BUBBLE SORT, 3.RANK IT, 4.SELEC
 
 
 
-### Day 16: 3 jANUARY, 2020
+### Day 16: 3 JANUARY, 2020
 
 
 
@@ -441,7 +441,7 @@ Was doing merge sort and a question that i had encountered in one of the placeme
 
 
 
-### Day 17: 4 jANUARY, 2020
+### Day 17: 4 JANUARY, 2020
 
 
 
