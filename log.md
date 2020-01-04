@@ -440,3 +440,13 @@ Was doing merge sort and a question that i had encountered in one of the placeme
 #programming @HackerEarth.
 
 
+
+### Day 17: 4 jANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Due to procrastination I wasn't able to understand a lot. I was doing a question which included concept of merge sort but failed to solve. Then I did one problem from @spoj.
+
+
