@@ -324,7 +324,7 @@ Did 5 questions today from @codechef & @spoj. Got some doubts cleared from the d
 
 The last time I gave up my challenge on day 12.
 
-And here I am to do things the better way.
+And here I am to do things the better way.Highlights
 
 cheers 
 
@@ -450,3 +450,31 @@ Was doing merge sort and a question that i had encountered in one of the placeme
 Due to procrastination I wasn't able to understand a lot. I was doing a question which included concept of merge sort but failed to solve. Then I did one problem from @spoj.
 
 
+
+
+### Day 18: 5 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+TDid 5 questions from @CodeChef today. Since last 2 days I was busy with sorting algos but today I did few problems.
+
+Feeling good.  
+
+Had 2 ACs in one go.
+
+The questions that I did are 1.CHN09, 2.LCH15JAB, 3.TRICOIN, 4.MNMX, 5.TWOSTR
+
+
+**Link to work**
+
+1.CHN09 https://www.codechef.com/viewsolution/28724171
+
+2.LH15JAB https://www.codechef.com/viewsolution/28723740
+
+3.TRICOIN https://www.codechef.com/viewsolution/28723006
+
+4.MNMX https://www.codechef.com/viewsolution/28719003
+
+5.TWOSTR https://www.codechef.com/viewsolution/28719003
