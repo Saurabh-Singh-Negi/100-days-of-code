@@ -478,3 +478,15 @@ The questions that I did are 1.CHN09, 2.LCH15JAB, 3.TRICOIN, 4.MNMX, 5.TWOSTR
 4.MNMX https://www.codechef.com/viewsolution/28719003
 
 5.TWOSTR https://www.codechef.com/viewsolution/28719003
+
+
+
+### Day 19: 6 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Busy with the algorithms from hackerearth.
+
+Having a hard time.
