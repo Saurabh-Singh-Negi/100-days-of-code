@@ -490,3 +490,30 @@ The questions that I did are 1.CHN09, 2.LCH15JAB, 3.TRICOIN, 4.MNMX, 5.TWOSTR
 Busy with the algorithms from hackerearth.
 
 Having a hard time.
+
+
+
+### Day 18: 5 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Can't believe that I've come this far. Even though my skills haven't drastically improved but these 20 days have surely brought an improvement.
+
+Did 4 problems from @codechef in #cplusplus.
+
+1/5th of the  journey is over.
+
+The questions that I did are 1.ELEVSTRS, 2.CHEFSTUD, 3.SIMPSTAD, 4.TICKETS5
+
+
+**Link to work**
+
+1.ELEVSTRS https://www.codechef.com/viewsolution/28794401
+
+2.CHEFSTUD https://www.codechef.com/viewsolution/28793946
+
+3.SIMPSTAD https://www.codechef.com/viewsolution/28793132
+
+4.TICKETS5 https://www.codechef.com/viewsolution/28789611
