@@ -493,7 +493,7 @@ Having a hard time.
 
 
 
-### Day 18: 5 JANUARY, 2020
+### Day 20: 7 JANUARY, 2020
 
 
 
@@ -517,3 +517,25 @@ The questions that I did are 1.ELEVSTRS, 2.CHEFSTUD, 3.SIMPSTAD, 4.TICKETS5
 3.SIMPSTAD https://www.codechef.com/viewsolution/28793132
 
 4.TICKETS5 https://www.codechef.com/viewsolution/28789611
+
+
+
+### Day 21: 8 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+The day started with recursion videos and then quick sort(just read the theory) and finally did 4 questions from 
+@spoj where only 3 were accepted. The Last Digit problem got accepeted on codechef but not getting accepted on spoj.
+
+Want to be super good in @programming. I've managed to stick to c++ since 21 days and that in itself is a very big achievement.
+
+But now I'll have to put more effort and learn advance things because I can't just be doing things which I am comfortable with.
+
+The questions that I did are 1.CANDY III, 2.JULKA, 3.TRANSFORM THE EXPRESSION
+
+
+**Link to work**
+
+THE QUESTIONS WERE FROM SPOJ
