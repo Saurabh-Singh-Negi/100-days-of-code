@@ -539,3 +539,15 @@ The questions that I did are 1.CANDY III, 2.JULKA, 3.TRANSFORM THE EXPRESSION
 **Link to work**
 
 THE QUESTIONS WERE FROM SPOJ
+
+
+
+### Day 22: 9 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Busy with the algorithms.
+
+Why are they so difficult???
