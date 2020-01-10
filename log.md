@@ -551,3 +551,12 @@ THE QUESTIONS WERE FROM SPOJ
 Busy with the algorithms.
 
 Why are they so difficult???
+
+
+### Day 23: 10 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+still busy with the algos...
