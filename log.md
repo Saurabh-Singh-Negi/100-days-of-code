@@ -560,3 +560,16 @@ Why are they so difficult???
 **Today's Progress**:
 
 still busy with the algos...
+
+
+
+
+### Day 24: 11 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+did the implementation of quick sort on @HackerEarth and 3 questions from @spoj in #cplusplus. Was trying 4th one also but was getting a WA. 
+
+Implemented  bool functions for the first time.
