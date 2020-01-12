@@ -573,3 +573,14 @@ still busy with the algos...
 did the implementation of quick sort on @HackerEarth and 3 questions from @spoj in #cplusplus. Was trying 4th one also but was getting a WA. 
 
 Implemented  bool functions for the first time.
+
+
+
+
+### Day 25: 12 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Did 2 questions from @spoj
