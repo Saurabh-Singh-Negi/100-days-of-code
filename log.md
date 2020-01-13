@@ -584,3 +584,17 @@ Implemented  bool functions for the first time.
 **Today's Progress**:
 
 Did 2 questions from @spoj
+
+
+
+### Day 26: 13 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+
+Tried to solve two questions from @spoj but could only do 1 and for the other I got the right o/p but it showed SIGSEGV error.
+
+And today I realized that I've already solved 111 questions from @codechef & @spoj.
+:P
