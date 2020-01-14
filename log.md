@@ -598,3 +598,14 @@ Tried to solve two questions from @spoj but could only do 1 and for the other I 
 
 **And today I realized that I've already solved 111 questions from @codechef & @spoj.
 :P**
+
+
+
+### Day 27: 14 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+
+Trying to do greedy algo from @HackerEarth.
