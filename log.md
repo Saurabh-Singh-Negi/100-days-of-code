@@ -609,3 +609,17 @@ Tried to solve two questions from @spoj but could only do 1 and for the other I 
 
 
 Trying to do greedy algo from @HackerEarth.
+
+
+
+### Day 28: 15 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+
+
+Did video lectures.
+
+Got started with something big
