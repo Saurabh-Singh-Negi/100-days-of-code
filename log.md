@@ -623,3 +623,13 @@ Trying to do greedy algo from @HackerEarth.
 Did video lectures.
 
 Got started with something big
+
+
+
+### Day 29: 16 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+did 2 coding questions and video lectures
