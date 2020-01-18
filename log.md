@@ -650,3 +650,17 @@ Did 7 fundamental question. And few days ago I had miscalculated and said that I
 Hurray :P
 
 century
+
+
+
+### Day 31: 18 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Attended a webinar and also did 8 questions. Six from the fundamental part and two(codeforces) from the webinar.
+
+Also did video lectures.
+
+The questions I did were 1.PERFECT NUMBER AND DIVISORS, 2.TEN FROM TWO, 3.ONE PATTERN, 4.NUMBER PATTERN, 5.v PATTERN, 6.SHOPPING COST, 7.A LUCKY NUMBER, 8. A EXPRESSION
