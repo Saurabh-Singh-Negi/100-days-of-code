@@ -633,3 +633,20 @@ Got started with something big
 **Today's Progress**:
 
 did 2 coding questions and video lectures
+
+
+
+### Day 30: 17 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+So it's been 30 days now.
+
+
+Did 7 fundamental question. And few days ago I had miscalculated and said that I've done 111 question. But it is actually today when I've finished 105 questions.
+
+Hurray :P
+
+century
