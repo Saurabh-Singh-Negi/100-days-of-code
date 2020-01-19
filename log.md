@@ -664,3 +664,15 @@ Attended a webinar and also did 8 questions. Six from the fundamental part and t
 Also did video lectures.
 
 The questions I did were 1.PERFECT NUMBER AND DIVISORS, 2.TEN FROM TWO, 3.ONE PATTERN, 4.NUMBER PATTERN, 5.v PATTERN, 6.SHOPPING COST, 7.A LUCKY NUMBER, 8. A EXPRESSION
+
+
+
+### Day 32: 19 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+did video lectures as well as solved 2 medium question from fundamental portion
+
+Questions I solved 1.BOXES AND TOYS, 2.VICTORY
