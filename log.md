@@ -676,3 +676,18 @@ The questions I did were 1.PERFECT NUMBER AND DIVISORS, 2.TEN FROM TWO, 3.ONE PA
 did video lectures as well as solved 2 medium question from fundamental portion
 
 Questions I solved 1.BOXES AND TOYS, 2.VICTORY
+
+
+
+### Day 33: 20 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+
+Did 3 HARD questions from fundamentals. And it took so much time to solve them. 
+
+But finally having solved them, I feel really good.
+
+The questions that i did were 1.HOUSE NUMBER, 2.FIT SQUARES, 3.CLOCK AND ANGLES
