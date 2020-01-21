@@ -691,3 +691,13 @@ Did 3 HARD questions from fundamentals. And it took so much time to solve them.
 But finally having solved them, I feel really good.
 
 The questions that i did were 1.HOUSE NUMBER, 2.FIT SQUARES, 3.CLOCK AND ANGLES
+
+
+
+### Day 34: 21 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Did videos today
