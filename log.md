@@ -701,3 +701,12 @@ The questions that i did were 1.HOUSE NUMBER, 2.FIT SQUARES, 3.CLOCK AND ANGLES
 **Today's Progress**:
 
 Did videos today
+
+
+### Day 34: 21 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Continuing with the videos
