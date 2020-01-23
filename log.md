@@ -703,10 +703,22 @@ The questions that i did were 1.HOUSE NUMBER, 2.FIT SQUARES, 3.CLOCK AND ANGLES
 Did videos today
 
 
-### Day 34: 21 JANUARY, 2020
+### Day 35: 22 JANUARY, 2020
 
 
 
 **Today's Progress**:
 
 Continuing with the videos
+
+
+
+### Day 36: 23 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Did questions today. 5 of them.
+
+1 HARD from fundamentals and 4 EASY from arrays
