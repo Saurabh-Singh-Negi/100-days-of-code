@@ -722,3 +722,13 @@ Continuing with the videos
 Did questions today. 5 of them.
 
 1 HARD from fundamentals and 4 EASY from arrays
+
+
+
+### Day 37: 24 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+Had college fest today. Still managed to do 2 questions.
