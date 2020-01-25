@@ -732,3 +732,15 @@ Did questions today. 5 of them.
 **Today's Progress**:
 
 Had college fest today. Still managed to do 2 questions.
+
+
+
+
+### Day 38: 25 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+tried questions but getting a WA
+
