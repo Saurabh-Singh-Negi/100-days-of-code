@@ -744,3 +744,12 @@ Had college fest today. Still managed to do 2 questions.
 
 tried questions but getting a WA
 
+
+### Day 39: 26 JANUARY, 2020
+
+
+
+**Today's Progress**:
+
+
+Doing webinars today
